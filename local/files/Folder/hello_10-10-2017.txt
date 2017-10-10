@@ -1,0 +1,11 @@
+Greetings!
+
+Currently this web app does not have any security measures to protect your files and
+the server so using it on a local server is the way to go.
+This means with basic 'tricks' your files can be accessed in and from the file system.
+Hopefully in the near future a more secured and usable version of
+this file manager will be published on the github.com/kavins14.
+
+I hope you like it.
+
+Any feedback is appreciated!

@@ -1,0 +1,60 @@
+File name: filemanager-public
+Last Updated: 14/07/17
+
+Working Version: 1.1.0
+Last Tested: 14/07/17 (self-tested)
+Status: Works well (no css bugs so far)
+
+////////--------Version 1.1.0--------\\\\\\\\\\\
+
+----Updates from 1.0.0-----
+1. Fixed '..' breadcrumbs by moving out of 'php' folder scan.php
+2. Converted SVGs into Data Uris for quick page loading
+3. Fix file delete problem
+4. create folder doesn't cause window to reload; (adds object to array in JS and reloads filemanager)
+5. Sorting Feature
+6. setting initial hash of '#files' to avoid breadcrumb bug
+
+--------------------------------------------------
+
+
+////////--------Version 1.0.0--------\\\\\\\\\\\
+
+----Description----
+This program is file manager that displays all the files and folders in the set directory
+'files'.
+
+Abilities: Viewing, File Downloading.
+
+*This is filemanager is the basic filemanager without any 'control panel' abilities*
+
+-------------------
+
+Latest (14/09/17)
+
+---------------------
+
+////Current Progress\\\\
+0. Error Handling - N/A
+
+1. Upload System - Complete
+        - Upload response handling needs to be created
+
+2. Folder Creation Ability - Complete
+        - Front End: Complete
+        - Backend: Complete
+
+3. Edit File Ability - Complete
+        - Front End: Done
+        - Backend: Folder deletion (complete), File deletion (complete)
+
+4. File manager
+        - Sorting System: Date Uploaded (newest-oldest)
+
+
+
+////-----------------\\\\
+
+
+
+\\\\\\\\\\\\\-------------------------/////////////
