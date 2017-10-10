@@ -20,6 +20,11 @@ Setting it up is relatively simple.
 3. Voila!
 
 ## Screenshots
+![Alt text](screenshots/a.png)
+![Alt text](screenshots/b.png)
+![Alt text](screenshots/c.png)
+![Alt text](screenshots/d.png)
+![Alt text](screenshots/e.png)
 
 
 
