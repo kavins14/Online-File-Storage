@@ -3,6 +3,8 @@ This beginner project is an online file manager where you can store files in a c
 
 Any feedback is highly appreciated!
 
+P.S. This was initially developed as an Online Course Material Repository: https://ocmw.000webhostapp.com/ Check it out!
+
 ## Features
   1. Upload Files
      - Image Preview (on upload)
