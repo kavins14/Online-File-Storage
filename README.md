@@ -32,7 +32,7 @@ Setting it up is relatively simple.
 
   
 #### NOTE
-This file manager currently does not have sufficient security implemented to project your files and server. 
+This file manager currently does not have sufficient security implemented to protect your files and server. 
 It's recommended to use it in a local server.
 
 #### DISCLAIMER
